@@ -46,7 +46,8 @@ int main(){
 }
   
   
-  #include <iostream>
+
+#include <iostream>
 #include <iomanip>
 
 using namespace std;
@@ -109,6 +110,8 @@ int main(){
     return 0;
 }
 
+	
+	
 ## Output
 Masukkan jumlah baris matriks: 2
 Masukkan jumlah kolom matriks: 2
