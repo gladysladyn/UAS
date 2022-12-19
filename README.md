@@ -129,7 +129,7 @@ Process exited after 10.15 seconds with return value 0
 Press any key to continue . . .
   
   
-  Input jumlah baris: 3
+Input jumlah baris: 3
 Input jumlah kolom: 3
 
 Baris 1, kolom 1 = 2
